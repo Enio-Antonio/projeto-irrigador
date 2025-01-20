@@ -1,0 +1,7 @@
+entity irrigador is
+	port();
+end entity;
+
+architecture main of irrigador is
+
+end architecture;
